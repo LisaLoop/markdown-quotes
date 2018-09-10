@@ -1,0 +1,10 @@
+-- # alpha project
+-- comments: this project will be delivered on jun 19th
+1. design;10;R1;20180910;20180914
+2. develop model;10;R1
+3. develop controller;10;R2
+4. create view;10;R2
+-- create view means just recbuild the file, something simple.
+5. write unit tests;10;R2
+6. deploy and test in production;20;R2
+-- client is picky, do keep in mind pixel perfection
